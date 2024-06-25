@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "b1ba098ed10232960e604abc5c6f768a",
+const RESOURCES = {"flutter_bootstrap.js": "d1c1b21a32da1b8c394ad7b6e296ab60",
 "version.json": "defa72635c6f390fee96e163fda14989",
-"index.html": "549b25b6009ebf02cc0ce886c4b30903",
-"/": "549b25b6009ebf02cc0ce886c4b30903",
+"index.html": "110aeb67d3a22a8eba3db31e0df89d14",
+"/": "110aeb67d3a22a8eba3db31e0df89d14",
 "main.dart.js": "801fa0f0f52d2eb8141908b5c4b9be88",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -312,7 +312,7 @@ const RESOURCES = {"flutter_bootstrap.js": "b1ba098ed10232960e604abc5c6f768a",
 "assets/assets/icons/ic_item_add.png": "cc2a1876f0556ba1d84c0f2bfa26f1c0",
 "assets/assets/icons/ic_google_signin.png": "18ec3c5cd43e898fa3df840d202d4a98",
 "assets/assets/icons/ic_account_saved.png": "ac95035458f8380b3706ae33fdecb9d2",
-"assets/assets/icons/ic_essemarket.png": "5ffd6134f0c0d63e8ffc338b2abca01e",
+"assets/assets/icons/ic_essemarket.png": "dc0923450632468420c2112b99c06c2e",
 "assets/assets/icons/ic_dine_in.png": "8bc18cb11850571baef984d4db0eac33",
 "assets/assets/icons/ic_dollar.png": "34538608ee1a9acb0a71c770ec2dd2dd",
 "assets/assets/icons/ic_plc_empty_order.png": "0db677f1ea7f60323630883d58a39a80",
