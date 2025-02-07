@@ -25716,7 +25716,7 @@ case"account":A.Bx(a,!1).f.lV(3)
 break
 case"gift_card":A.Bi(a,!1).f.GK("/gift-card",t.X)
 break
-case"/products":A.Bi(a,!1).f.GK("/"+b+"/"+A.j(c),t.X)
+case"products":A.Bi(a,!1).f.GK("/"+b+"/"+A.j(c),t.X)
 break
 default:A.Bi(a,!1).f.GK("/"+b,t.X)
 break}case 1:return A.A(q,r)}})
