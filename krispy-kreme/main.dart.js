@@ -76907,7 +76907,7 @@ A.anX.prototype={
 $0(){return B.aG},
 $S:113}
 A.anY.prototype={
-$2(a,b){var s=null,r=A.xP(A.cy(a,s,t.w).w.a.a,0.5)
+$2(a,b){var s=null,r=A.xP(A.cy(a,s,t.w).w.a.a,0.7)
 return A.bl(s,A.xd(A.he(12),new A.iK("https://i.ibb.co.com/zHGDGXVw/Flux-Dev-Create-an-eyecatching-image-promoting-a-buy-one-get-o-2-min.jpg",B.bL,s,s,s)),s,s,r,B.BB,s,s)},
 $S:94}
 A.anG.prototype={
