@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "75fae94a88a9083843594bd716f1d9e3",
-"version.json": "87a0129006a543e526601c2ad5d2c349",
+const RESOURCES = {"flutter_bootstrap.js": "71a71450d9bdd4cdb3b4c10583e4148e",
+"version.json": "fff0800ab72b60df1e3bea00c4e41764",
 "index.html": "742a7c8c15b1ee72d8eccbd046705cc7",
 "/": "742a7c8c15b1ee72d8eccbd046705cc7",
-"main.dart.js": "966aee756dc406a22033e49c83bda032",
+"main.dart.js": "61459f7482b742fa53fd2fc4e1946615",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
 "favicon.png": "622bbbae97b2c62d5f077ecd82871718",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -280,7 +280,7 @@ const RESOURCES = {"flutter_bootstrap.js": "75fae94a88a9083843594bd716f1d9e3",
 "assets/packages/easy_stepper/assets/loading_white.json": "92623d18291ed579cf8bfe3f5fc74213",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "f8d1916b7a89da2e08c10b069b91eee2",
-"assets/fonts/MaterialIcons-Regular.otf": "6829efddb36c65e75dad0af86fdf6ae6",
+"assets/fonts/MaterialIcons-Regular.otf": "fda6918264ba5cfeafe98878e1b28e96",
 "assets/assets/loading_circle.json": "92623d18291ed579cf8bfe3f5fc74213",
 "assets/assets/images/banner.jpg": "6d45b1e6282d9d2247aaf4adce787c84",
 "assets/assets/images/Manna360_Banner_2.jpg": "5227ea77051639dcd34657742395a9e9",
