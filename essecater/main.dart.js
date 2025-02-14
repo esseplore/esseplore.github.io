@@ -56455,14 +56455,15 @@ $S:672}
 A.v2.prototype={
 a3(){return new A.a4M()}}
 A.a4M.prototype={
-F(a){var s=this,r=null,q=s.gft().lO($.aTi().$1(s.a.d),t.Pq),p=s.gft().lO($.aYx().$1(s.a.d),t.yZ),o=A.a_A().a6I(0,"","").gqo()
-o=A.d6(o,"#","")
-return A.mY(A.xe(r,r,!0,r,r,1,r,r,r,!1,r,!1,r,r,r,r,!0,r,r,r,r,r,B.a5V,r,r,r,1,r),B.hy,A.nz(q,new A.aKM(s,o+"/#",p),new A.aKN(),new A.aKO(),t._5,t.jK),r,r,r,B.N,r,!0,r,r,!0,!1,!1,r,r,r,r,r,r,r,!0,r,r)}}
+F(a){var s=this,r=null,q={},p=s.gft().lO($.aTi().$1(s.a.d),t.Pq),o=s.gft().lO($.aYx().$1(s.a.d),t.yZ),n=A.a_A().a6I(0,"","").gqo(),m=A.d6(n,"#","")
+q.a=m
+if(!B.c.p(m,"localhost"))q.a="https://app.essemarket.dev/essecater/#"
+return A.mY(A.xe(r,r,!0,r,r,1,r,r,r,!1,r,!1,r,r,r,r,!0,r,r,r,r,r,B.a5V,r,r,r,1,r),B.hy,A.nz(p,new A.aKM(q,s,o),new A.aKN(),new A.aKO(),t._5,t.jK),r,r,r,B.N,r,!0,r,r,!0,!1,!1,r,r,r,r,r,r,r,!0,r,r)}}
 A.aKM.prototype={
-$1(a){var s,r,q,p,o,n,m,l=null,k="yyyy MMM dd hh:mm a",j=this.a,i=A.d8(12),h=A.ay(a.gbA(a),l,l,l,l,l,A.cX(B.a4,16),l,l,l),g=A.ql(k).kx(a.gEa()),f=a.gEy()
+$1(a){var s,r,q,p,o,n,m,l=null,k="yyyy MMM dd hh:mm a",j=this.b,i=A.d8(12),h=A.ay(a.gbA(a),l,l,l,l,l,A.cX(B.a4,16),l,l,l),g=A.ql(k).kx(a.gEa()),f=a.gEy()
 if(f==null)f="-"
 s=t.p
-i=A.cl(l,A.bi(A.a([h,B.as,new A.dd("Created Time",g,!1,!0,l),new A.dd("Event Name",f,!1,!0,l),new A.dd("Invitee Link",this.b+"/orders/"+a.gQy(a)+"/invitee",!0,!1,l)],s),B.Q,B.m,B.r,0),B.p,l,l,new A.cB(B.k,l,l,i,l,l,l,B.a8),l,l,B.aI,B.aI,l,l,l)
+i=A.cl(l,A.bi(A.a([h,B.as,new A.dd("Created Time",g,!1,!0,l),new A.dd("Event Name",f,!1,!0,l),new A.dd("Invitee Link",this.a.a+"/orders/"+a.gQy(a)+"/invitee",!0,!1,l)],s),B.Q,B.m,B.r,0),B.p,l,l,new A.cB(B.k,l,l,i,l,l,l,B.a8),l,l,B.aI,B.aI,l,l,l)
 f=A.d8(12)
 g=A.ay("Order Information",l,l,l,l,l,A.cX(l,16),l,l,l)
 h=B.e.j(a.ga5Y())
